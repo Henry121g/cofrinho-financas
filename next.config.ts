@@ -10,6 +10,10 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  experimental: {
+    // Extrato de até 1 MB + campos do formulário (categorias da prévia). Abaixo dos 4,5 MB da Vercel.
+    serverActions: { bodySizeLimit: "2.5mb" },
+  },
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
   },

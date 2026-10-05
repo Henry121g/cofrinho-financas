@@ -10,8 +10,7 @@
     "typecheck": "next typegen && tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
-    "seed:demo": "node --env-file=.env.local scripts/seed-demo.ts",
-    "test:concorrencia": "node --env-file=.env.local scripts/concurrency-test.ts"
+    "seed:demo": "tsx --env-file=.env.local scripts/seed-demo.mts"
   },
   "dependencies": {
     "@sentry/nextjs": "^11.2.0",
@@ -31,6 +30,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.8",
     "tailwindcss": "^4",
+    "tsx": "^4.23.15",
     "typescript": "^5",
     "vitest": "^5.0.3"
   },
