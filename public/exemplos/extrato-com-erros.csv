@@ -1,0 +1,8 @@
+Data;Descrição;Valor
+03/10/2026;Mercado da praça;-120,40
+31/02/2026;Data impossível;-10,00
+04/10/2026;;-35,00
+05/10/2026;Valor com texto;-abc
+06/10/2026;Valor zerado;0,00
+2026/10/07;Formato ISO com barras;-42,00
+08-10-2026;Formato com hífen;1.050,75
