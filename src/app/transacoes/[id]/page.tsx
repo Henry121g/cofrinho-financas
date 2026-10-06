@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { buttonStyles } from "@/components/ui";
+import { buttonStyles } from "@/components/button-styles";
 import { requireViewer, TIME_ZONE } from "@/lib/auth";
 import { localDate } from "@/lib/format";
 import { centsToInput } from "@/lib/money";

@@ -1,5 +1,5 @@
 import type { Filters } from "@/lib/filters";
-import { buttonStyles } from "./ui";
+import { buttonStyles } from "./button-styles";
 
 interface Option {
   id: string;

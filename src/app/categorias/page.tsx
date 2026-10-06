@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { EmptyState } from "@/components/empty-state";
-import { buttonStyles } from "@/components/ui";
+import { buttonStyles } from "@/components/button-styles";
 import { requireViewer } from "@/lib/auth";
 import { createClient } from "@/lib/supabase/server";
 import { deleteCategory, deleteRule } from "./actions";
