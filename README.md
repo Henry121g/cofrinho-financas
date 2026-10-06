@@ -3,7 +3,7 @@
 > Projeto de portfólio com **dados fictícios**, desenvolvido com assistência de IA (Claude Code).
 > Nenhum valor, banco ou pessoa é real.
 
-**Demonstração:** _pendente de deploy_ · **CI:** ver aba Actions
+**Demonstração:** [cofrinho-financas.vercel.app](https://cofrinho-financas.vercel.app) (contas de demonstração em configuração) · **CI:** ver aba Actions
 
 <!-- Screenshots reais serão adicionadas após o deploy (docs/screenshots/). -->
 
