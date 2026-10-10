@@ -86,6 +86,13 @@ e escuro, um único eixo, tooltip por barra também acessível por teclado e **t
 Schema `financas` no mesmo projeto Supabase das outras demos do portfólio (plano gratuito: 2
 projetos). Contas criadas em outros apps não têm perfil aqui e não conseguem gravar (testado).
 
+## Design
+
+Identidade visual baseada no sistema `friendly` do [open-design](https://github.com/nexu-io/open-design)
+(licença Apache-2.0): creme quente e laranja, cantos arredondados, hierarquia leve. Os tokens foram adaptados em `src/app/globals.css`, com
+tons de texto ajustados para contraste AA (WCAG 4,5:1) e a cor da marca separada em preenchimento
+(botões) e texto (links e foco). Cada app do portfólio usa um sistema diferente.
+
 ## Arquitetura
 
 ```
