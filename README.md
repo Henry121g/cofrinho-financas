@@ -7,6 +7,18 @@
 
 <!-- Screenshots reais serão adicionadas após o deploy (docs/screenshots/). -->
 
+## Telas
+
+<table>
+  <tr>
+    <td width="33%"><a href="docs/telas/painel.png"><img src="docs/telas/painel.png" alt="Painel com receitas, despesas, gráficos e saldo por conta"></a><br><sub>Painel com receitas, despesas, gráficos e saldo por conta</sub></td>
+    <td width="33%"><a href="docs/telas/importacao-previa.png"><img src="docs/telas/importacao-previa.png" alt="Prévia da importação: linhas novas, já importadas e com erro, antes de gravar"></a><br><sub>Prévia da importação: linhas novas, já importadas e com erro, antes de gravar</sub></td>
+    <td width="33%"><a href="docs/telas/regras.png"><img src="docs/telas/regras.png" alt="Regras de categorização automática"></a><br><sub>Regras de categorização automática</sub></td>
+  </tr>
+</table>
+
+<sub>Capturas com os dados fictícios da demonstração.</sub>
+
 ## O problema
 
 Quem controla as próprias finanças junta extratos de bancos diferentes, cada um com um CSV
