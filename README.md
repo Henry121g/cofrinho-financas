@@ -5,7 +5,6 @@
 
 **Demonstração:** [cofrinho-financas.vercel.app](https://cofrinho-financas.vercel.app) (contas de demonstração em configuração) · **CI:** ver aba Actions
 
-<!-- Screenshots reais serão adicionadas após o deploy (docs/screenshots/). -->
 
 ## Telas
 
