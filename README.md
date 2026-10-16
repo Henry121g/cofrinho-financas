@@ -8,6 +8,8 @@
 
 ## Telas
 
+▶ **[Vídeo da demonstração](docs/demo.mp4)** (1 a 2 min, com legenda em cada funcionalidade).
+
 <table>
   <tr>
     <td width="33%"><a href="docs/telas/painel.png"><img src="docs/telas/painel.png" alt="Painel com receitas, despesas, gráficos e saldo por conta"></a><br><sub>Painel com receitas, despesas, gráficos e saldo por conta</sub></td>
